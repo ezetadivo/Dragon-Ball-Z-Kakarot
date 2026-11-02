@@ -1,0 +1,5 @@
+{
+  "dockerComposePath": "docker-compose.alloy.yaml",
+  "frontendPort": 3000,
+  "homeUrl": "/Pagina%20de%20lincks%20Dragon%20Ball%20Z%20Kakarot.html"
+}
